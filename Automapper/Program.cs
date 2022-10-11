@@ -122,3 +122,9 @@ namespace Automapper
 		}
 	}
 }
+/*
+ * REFERENCES
+ * https://docs.automapper.org/en/stable/Getting-started.html
+ * https://code-maze.com/automapper-net-core/
+ * https://dotnettutorials.net/lesson/automapper-in-c-sharp/
+*/
